@@ -1,0 +1,194 @@
+# depslib dependency file v1.0
+1692909931 source:e:\documentos\programacion\c\trabajo final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"juego.h"
+	"time.h"
+	"respuesta.h"
+	"pregunta.h"
+
+1692913618 source:e:\documentos\programacion\c\trabajo final\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	<string.h>
+
+1692395815 e:\documentos\programacion\c\trabajo final\jugador.h
+	"pregunta.h"
+	"respuesta.h"
+	"puntos.h"
+
+1688420412 source:e:\documentos\programacion\c\trabajo final\extras.c
+	<stdio.h>
+	<stdlib.h>
+	"extras.h"
+	<string.h>
+
+1688438316 e:\documentos\programacion\c\trabajo final\extras.h
+
+1692986762 source:e:\documentos\programacion\c\trabajo final\juego.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"jugador.h"
+	<string.h>
+	"respuesta.h"
+	"pregunta.h"
+	"puntos.h"
+
+1692909147 e:\documentos\programacion\c\trabajo final\juego.h
+	"jugador.h"
+
+1692668733 source:e:\documentos\programacion\c\trabajo final\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"time.h"
+	"pregunta.h"
+	"respuesta.h"
+	"jugador.h"
+
+1692396449 e:\documentos\programacion\c\trabajo final\pregunta.h
+	"respuesta.h"
+
+1692396449 e:\documentos\programacion\c\trabajo final\respuesta.h
+
+1688505612 source:e:\documentos\programacion\c\trabajo final\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"respuesta.h"
+
+1691607367 e:\documentos\programacion\c\trabajo final\puntos.h
+
+1691607367 source:e:\documentos\programacion\c\trabajo final\puntos.c
+	"puntos.h"
+
+1697750508 source:e:\documentos\programacion\c\pruebas\tp final para pruebas\juego.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"jugador.h"
+	<string.h>
+	"respuesta.h"
+	"pregunta.h"
+	"puntos.h"
+	"time.h"
+
+1697131724 e:\documentos\programacion\c\pruebas\tp final para pruebas\juego.h
+	"jugador.h"
+
+1697302819 e:\documentos\programacion\c\pruebas\tp final para pruebas\jugador.h
+	"pregunta.h"
+	"respuesta.h"
+	"puntos.h"
+
+1697302309 e:\documentos\programacion\c\pruebas\tp final para pruebas\pregunta.h
+	"respuesta.h"
+
+1697302263 e:\documentos\programacion\c\pruebas\tp final para pruebas\respuesta.h
+
+1697046903 e:\documentos\programacion\c\pruebas\tp final para pruebas\puntos.h
+
+1697302782 source:e:\documentos\programacion\c\pruebas\tp final para pruebas\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"puntos.h"
+	"respuesta.h"
+	"pregunta.h"
+	<string.h>
+
+1697303185 source:e:\documentos\programacion\c\pruebas\tp final para pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"juego.h"
+	"time.h"
+	"respuesta.h"
+	"pregunta.h"
+
+1697302263 source:e:\documentos\programacion\c\pruebas\tp final para pruebas\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"time.h"
+	"pregunta.h"
+	"respuesta.h"
+	"jugador.h"
+
+1697046903 source:e:\documentos\programacion\c\pruebas\tp final para pruebas\puntos.c
+	"puntos.h"
+
+1697302263 source:e:\documentos\programacion\c\pruebas\tp final para pruebas\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"respuesta.h"
+
+1700770655 source:e:\documentos\programacion\c\tp final entregado\juego.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"jugador.h"
+	<string.h>
+	"respuesta.h"
+	"pregunta.h"
+	"puntos.h"
+	"time.h"
+
+1697131724 e:\documentos\programacion\c\tp final entregado\juego.h
+	"jugador.h"
+
+1697302819 e:\documentos\programacion\c\tp final entregado\jugador.h
+	"pregunta.h"
+	"respuesta.h"
+	"puntos.h"
+
+1697302309 e:\documentos\programacion\c\tp final entregado\pregunta.h
+	"respuesta.h"
+
+1697302263 e:\documentos\programacion\c\tp final entregado\respuesta.h
+
+1697046903 e:\documentos\programacion\c\tp final entregado\puntos.h
+
+1697302782 source:e:\documentos\programacion\c\tp final entregado\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"puntos.h"
+	"respuesta.h"
+	"pregunta.h"
+	<string.h>
+
+1697303185 source:e:\documentos\programacion\c\tp final entregado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"juego.h"
+	"time.h"
+	"respuesta.h"
+	"pregunta.h"
+
+1697302263 source:e:\documentos\programacion\c\tp final entregado\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"time.h"
+	"pregunta.h"
+	"respuesta.h"
+	"jugador.h"
+
+1697046903 source:e:\documentos\programacion\c\tp final entregado\puntos.c
+	"puntos.h"
+
+1697302263 source:e:\documentos\programacion\c\tp final entregado\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"respuesta.h"
+

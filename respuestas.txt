@@ -1,0 +1,80 @@
+Londres,Paris,New York,Buenos Aires
+Avengers,Guardianes de la Galaxia,Iron Man,Capitan America
+Futbolista,Bajista,Guitarrista,Cocinero
+Messi,Picasso,Leonardo da Vinci,Van Goh
+Donald Trump,Joe Biden,Barak Obama,John F. Kennedy
+1789,1810,1672,1914
+Marcelo Tinelli,Angel De Brito,Dario Barassi,Marley
+Junio,Julio,Agosto,Septiembre
+Ricardo Fort,Flavio Mendoza,Ricardo Darin,Abel Pintos
+Zeta Bosio,Charly Alberti,Gustavo Cerati,Charly Garcia
+Japon,China,Brazil,Chile
+82,100,96,97
+3,6,2,4
+Romeo,Socrates,Cleopatra,Hitler
+Toy Story,Cars,Intensa Mente,Blanca Nieves
+Tony Stark,Elon Musk,Mark Zuckerberg,Bill Gates
+2011,2012,1010,2009
+90 min,60 min,95 min,100 min
+1980,2001,1969,2003
+Argentina,Rusia,Uruguay,Mexico
+1912,1911,1913,120
+1991,1992,1993,1994
+Queen 2,Californication,Stadium Arcadium,Thriller
+Titanic,Avatar,Toys Story,Avatar 2
+Chino Mandarin,Espaniol,Ingles,Portugues
+Netflix,Youtube,Twich,Disney+
+Charles,Michael,German,Adam
+Netflix,Twich,Disney+,Youtube
+John,Charl,Anthony,Flea
+Vos lo sos,Cara de papa tenes,Yo no lo sere,Cara de burro tenes
+1,2,4,3
+LG,Samsumg,Intel,Hp
+La plata,Buenos Aires,Catamarca,Cordoba
+Guitarra,Piano,Acordeon,Bajo
+Hendrix,Steve Vai,Brian May,John Mayer
+Sergio Aguero,Lionel Messi,Diego Maradona,Juan Roman Riquelme
+Empanada,Milanesa,Asado,Ensalada
+Shrek,Mulan,Fronzen,Moana
+Matriz,Volver al Futuro,Blade Runner,IntensaMente
+Robert Downey Jr,Leonardo DiCaprio,Johny Depp,Brad Pitt
+Chris Hemsworth,Chris Evans,Mark Ruffalo,Robert Downey Jr
+Emma Watson,Scarlett Johansson,Kristen Stewart,Jennifer Lawrence
+The Beatles,Queen,The Rollings Stones,Led Zeppelin
+The Doors,Pink Floyd,Aerosmith,The Who
+The Wire,Narcos,Breaking Bad,The Sopranos
+The Simpsons,South Park,Family Guy,Bobs Burgers
+Rata Blanca,Los Autenticos Decadentes,Soda Stereo,Almendra
+Gato,Perro,Burro,Sapo
+La Noche Estrellada,La Ultima Cena,La Gioconda (Mona Lisa),El Nacimiento de Venus
+Londres,Paris,Berlin,Roma
+Pekin,Tokio,Seul,Bangok
+William Shakespeare,Charles Dickens,Jane Austen,Mark Twain
+Atlantico,Indico,Artico,Pacifico
+Elefante,Leon,Jirafa,Cocodrilo
+Italia,Chile,Uruguay,Argetina
+Bob Esponja,Bugs Bunny,Mickey Mouse,Scooby Doo
+Torre de Pisa,Torre de Italia,Torre de Roma,Torre de Venecia
+Buenos Aires,Cordoba,Rosario,Mendoza
+Dolar,Euro,Peso Argentino,Real
+1992,1993,1978,2018
+Star Trek,Star Wars,ET,Blade Runner
+Aladdin,La Sirenita,El Rey Leon,Mulan
+Obi Wan Kenobi,Yoda,Mace Windu,Qui Gon Jinn
+Estrella de la Muerte,Halcon Milenario,X Wing,Slave I
+Leonardo DiCaprio,Brad Pitt,Tom Hanks,Johnny Depp
+Toy Story,Rataoutille,Wall e,Blanca Nieves
+Michael Jackson,Elvis Presley,Prince,James Brown
+Continuum,Room for Squares,Battle Studies,Born and Raised
+Gato,Loro,Pajaro,Perro
+1945,1950,1960,1975
+4,3,5,6
+Asado,Milanesa,Matambre,Ensalada
+Pollo,Arroz,Pasta,Papas
+Jesse Pinkman,Hank Schrader,Saul Goodman,Walter White
+Eleven,Max,Joyce,Travis
+Drogas sinteticas,Metanfetaminas,Heroina,Cocaina
+Dr. Chase,Dr. Cuddy,Dr. House,Dr. Wilson
+John Lennon,Freddie Mercury,Mick Jagger,David Bowie
+Bob Dylan,Mick Jagger,Paul McCartney,Jimi Hendrix
+Jimi Hendrix,Eric Clapton,Carlos Santana,Jeff Beck
